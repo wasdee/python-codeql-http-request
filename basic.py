@@ -10,4 +10,4 @@ def reset_this_world():
 for var in range(123):
     pass
 else:
-    x = 12
+    x = x+12
